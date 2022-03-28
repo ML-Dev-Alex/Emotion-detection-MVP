@@ -1,7 +1,7 @@
 # Real time Emotion Detection with convolutional neural networks
 
 <p align="center">
-  <img width="800" src="emotions.mp4">
+  <img width="800" src="emotions.gif">
   
 </p>
 
