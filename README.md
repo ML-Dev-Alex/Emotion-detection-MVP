@@ -2,7 +2,6 @@
 
 <p align="center">
   <img width="800" src="emotions.gif">
-  
 </p>
 
 
