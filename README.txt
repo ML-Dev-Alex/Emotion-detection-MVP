@@ -1,4 +1,12 @@
-Install python and pyp, then run
+# Real time Emotion Detection with convolutional neural networks
+
+<p align="center">
+  <img width="800" src="emotions.mp4">
+  
+</p>
+
+
+Install python and pip, then run:
 
 pip install -r requirements.txt
 
